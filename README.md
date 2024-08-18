@@ -1,0 +1,1 @@
+# DRV5032-Hall-Sensor
